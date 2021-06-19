@@ -8,5 +8,6 @@ This will run server on localhost:8080
 4) open frontend project in terminal
 5) npm i
 6) npm start
+
 On project has worked:
 Gegi Janiashvili, Anton Takashvili, Giorgi Begiashvili
