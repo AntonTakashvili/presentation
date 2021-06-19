@@ -1,0 +1,73 @@
+.strike,
+.text {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  width: 75%;
+  font-size: 2rem;
+  text-align: left;
+  display: inline-block;
+  min-width: 588px;
+  margin-left: 10px;
+}
+.title-container {
+  width: 350px;
+  margin-left: -100px;
+}
+.strike {
+  text-decoration: line-through;
+  font-style: italic;
+  color: rgb(96, 96, 96);
+  font-weight: 100px;
+}
+
+.text {
+  color: rgb(5, 79, 238);
+}
+
+input[type="checkbox"] {
+  width: 16px;
+  height: 16px;
+  vertical-align: 8px;
+}
+
+.task {
+  text-align: left;
+  margin-left: 40px;
+  height: 40px;
+}
+
+.delete-btn {
+  background-color: #ec1b0c;
+  cursor: pointer;
+  outline: none;
+  padding: 2px;
+  border: none;
+  border-radius: 2px;
+  box-shadow: none;
+  vertical-align: 4px;
+}
+.delete-btn:hover {
+  background-color: #961522;
+}
+.delete-icon {
+  width: 30px;
+  height: 32px;
+  vertical-align: 10xp;
+}
+
+.edit-btn {
+  padding: 12px;
+  vertical-align: 14px;
+  background-color: rgba(0, 0, 255, 0.803);
+  color: #fff;
+  border: none;
+  border-radius: 2px;
+  box-shadow: none;
+  outline: none;
+  cursor: pointer;
+}
+
+.edit-btn:hover {
+  background-color: rgb(27, 27, 205);
+}

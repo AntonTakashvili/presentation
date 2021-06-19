@@ -1,0 +1,19 @@
+.text-field {
+  width: 150px;
+  height: 36px;
+  outline: none;
+  margin-top: 20px;
+  border-radius: 14px 0px 0px 14px;
+}
+
+.add-task-btn {
+  height: 36px;
+  outline: none;
+  border: none;
+  background-color: rgba(0, 0, 255, 0.803);
+  color: #fff;
+  cursor: pointer;
+  margin-top: 20px;
+  border-radius: 0px 14px 14px 0px;
+  padding: 5px;
+}

@@ -1,0 +1,20 @@
+.main-container {
+  width: 800px;
+  height: 800px;
+  background-color: #fff;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+  left: 25%;
+  -ms-transform: translateY(3%);
+  transform: translateY(3%);
+  border-radius: 10px;
+  box-shadow: 3px 3px 50px #919191;
+  overflow: hidden;
+  position: relative;
+  margin-top: 20px;
+}
+
+.tasks-container {
+  margin-top: 20px;
+}

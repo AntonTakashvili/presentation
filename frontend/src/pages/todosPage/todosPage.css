@@ -1,0 +1,12 @@
+.sign-out {
+  background-color: rgb(24, 19, 19);
+  padding: 10px;
+  color: #fff;
+  border: none;
+  margin-top: 5px;
+  cursor: pointer;
+}
+
+.sign-out:hover {
+  background-color: rgb(40, 44, 40);
+}

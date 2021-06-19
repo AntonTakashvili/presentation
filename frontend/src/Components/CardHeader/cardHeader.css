@@ -1,0 +1,33 @@
+.select-all,
+.delete-selected-btn {
+  background-color: rgba(0, 0, 255, 0.803);
+  color: #fff;
+  padding: 10px;
+  outline: none;
+  border: none;
+  margin-top: 20px;
+  height: 36px;
+}
+
+.delete-selected-btn {
+  background-color: rgb(206, 1, 1);
+}
+
+.card-header {
+  background-color: #fff;
+  text-align: center;
+  display: flex;
+  justify-content: space-between;
+  height: 58px;
+  padding: 5px 40px;
+}
+.buttons-container {
+  min-width: 240px;
+  margin-right: -25px;
+  margin-left: 30px;
+  text-align: left;
+}
+
+.hide {
+  visibility: hidden;
+}
